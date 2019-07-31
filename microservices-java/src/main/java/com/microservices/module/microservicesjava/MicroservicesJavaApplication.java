@@ -8,7 +8,7 @@ public class MicroservicesJavaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MicroservicesJavaApplication.class, args);
-		System.out.println("Module 01");
+		System.out.println("Module 01 Test");
 	}
 
 }
